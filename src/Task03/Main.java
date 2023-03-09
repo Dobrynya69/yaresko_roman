@@ -36,7 +36,7 @@ public class Main {
                     System.out.println("Quit.");
                     break;
                 case 'E':
-                    int size = 5;
+                    int size = 2;
                     System.out.println("Enter your " + size + " numbers like this - +38 0xx xxx xx xx");
                     String[] numbers = new String[size];
                     for(int i = 0; i < size; i++) {
